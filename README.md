@@ -33,6 +33,8 @@
 	```
 	</details>
 
+- [Код программы](https://github.com/crasher307/result-work/blob/master/program/Program.cs) (использует библиотеку [func](https://github.com/crasher307/result-work/tree/master/func))
+
 ## **Описание логики**
 <div style="font-size: 16px">
 
